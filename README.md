@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Welcome to Medilife
+
+What is all about?
+
+- Medical Consultation through online
+- 24/7 doctor Service
+- Compare price and budget
+- early solution
+- Doctor Opinion
+
+Live Link: https://medilife.netlify.app/home#home
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
